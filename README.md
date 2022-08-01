@@ -1,0 +1,2 @@
+# transport-management-system
+This Transportation Management System Project in C++is based on the idea of managing transportation for students and others. A user must first pass through a login system to gain access to the main system; there are two types of logins, i.e. Login for both staff and students. Selective options such as Register, Staff Login, Student Login, and Notices are available from the main menu. The user can also create their own login credentials by registering in the system.
